@@ -1,0 +1,11 @@
+com\fakecoders\foundation\service\impl\RatingServiceImpl.class
+com\fakecoders\foundation\RatingserviceApplication.class
+com\fakecoders\foundation\payload\ApiResponse$ApiResponseBuilder.class
+com\fakecoders\foundation\service\IRatingService.class
+com\fakecoders\foundation\payload\ApiResponse.class
+com\fakecoders\foundation\controller\RatingController.class
+com\fakecoders\foundation\entities\Rating.class
+com\fakecoders\foundation\exception\ResourceNotFoundException.class
+com\fakecoders\foundation\repositories\IRatingRepository.class
+com\fakecoders\foundation\entities\Rating$RatingBuilder.class
+com\fakecoders\foundation\exception\GlobalExceptionHandler.class

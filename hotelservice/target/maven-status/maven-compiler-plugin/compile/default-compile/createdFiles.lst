@@ -1,0 +1,13 @@
+com\fakecoders\foundation\entities\Hotel.class
+com\fakecoders\foundation\service\impl\HotelServiceImpl.class
+com\fakecoders\foundation\payload\ApiResponse$ApiResponseBuilder.class
+com\fakecoders\foundation\controller\HotelController.class
+com\fakecoders\foundation\entities\Hotel$HotelBuilder.class
+com\fakecoders\foundation\repository\IHotelRepository.class
+com\fakecoders\foundation\service\IHotelService.class
+com\fakecoders\foundation\entities\User.class
+com\fakecoders\foundation\payload\ApiResponse.class
+com\fakecoders\foundation\HotelserviceApplication.class
+com\fakecoders\foundation\entities\Rating.class
+com\fakecoders\foundation\exception\ResourceNotFoundException.class
+com\fakecoders\foundation\exception\GlobalExceptionHandler.class
